@@ -1,0 +1,13 @@
+
+AI RESUME ANALYZER REPORT
+
+Match Score: 85.71%
+
+Skills Found:
+python, c, sql, excel, power bi, nlp, data analytics, streamlit, git
+
+Matched Skills:
+python, c, sql, power bi, data analytics, git
+
+Missing Skills:
+machine learning
