@@ -17,4 +17,5 @@ AI Resume Analyzer is a Streamlit-based application that compares resumes with j
 
 ## How to Run
 pip install -r requirements.txt
+
 streamlit run test.py
